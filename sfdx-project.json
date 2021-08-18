@@ -7,6 +7,6 @@
   ],
   "name": "functions_recipes",
   "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sfdcLoginUrl": "https://site-energy-4710-dev-ed.cs121.my.salesforce.com/",
   "sourceApiVersion": "52.0"
 }
